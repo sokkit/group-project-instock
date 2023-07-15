@@ -1,0 +1,9 @@
+[submodule "instock-mobile-application"]
+	path = instock-mobile-application
+	url = https://github.com/sokkit/instock-mobile-application
+[submodule "instock-backend"]
+	path = instock-backend
+	url = https://github.com/sokkit/instock-backend
+[submodule "instock-mock-shop"]
+	path = instock-mock-shop
+	url = https://github.com/sokkit/instock-mock-shop
